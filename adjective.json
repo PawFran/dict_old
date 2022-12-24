@@ -1,0 +1,690 @@
+{
+	"acer, acris, acre": {
+		"third": {
+			"masculinum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "acer",
+				        "genetivus": "acris",
+				        "dativus": "acri",
+				        "accusativus": "acrem",
+				        "ablativus": "acri",
+				        "vocativus": "acer"
+					}, 
+					"pluralis": {
+						"nominativus": "acres",
+				        "genetivus": "acrium",
+				        "dativus": "acribus",
+				        "accusativus": "acres",
+				        "ablativus": "acribus",
+				        "vocativus": "acres"
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "acrior",
+				        "genetivus": "acrioris",
+				        "dativus": "acriori",
+				        "accusativus": "acriorem",
+				        "ablativus": "acriore",
+				        "vocativus": "acrior"
+					}, 
+					"pluralis": {
+						"nominativus": "acriores",
+				        "genetivus": "acriorum",
+				        "dativus": "acrioribus",
+				        "accusativus": "acriores",
+				        "ablativus": "acrioribus",
+				        "vocativus": "acriores"
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "acerrimus",
+				        "genetivus": "acerrimi",
+				        "dativus": "acerrimo",
+				        "accusativus": "acerrimum",
+				        "ablativus": "acerrimo",
+				        "vocativus": "acerrime"
+					}, 
+					"pluralis": {
+						"nominativus": "acerrimi",
+				        "genetivus": "acerrimorum",
+				        "dativus": "acerrimis",
+				        "accusativus": "acerrimos",
+				        "ablativus": "acerrimis",
+				        "vocativus": "acerrimi"
+					}
+				}
+			},
+			"femininum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "acris",
+				        "genetivus": "acris",
+				        "dativus": "acri",
+				        "accusativus": "acrem",
+				        "ablativus": "acri",
+				        "vocativus": "acris"
+					}, 
+					"pluralis": {
+						"nominativus": "acres",
+				        "genetivus": "acrium",
+				        "dativus": "acribus",
+				        "accusativus": "acres",
+				        "ablativus": "acribus",
+				        "vocativus": "acres"
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "acrior",
+				        "genetivus": "acrioris",
+				        "dativus": "acriori",
+				        "accusativus": "acriorem",
+				        "ablativus": "acriore",
+				        "vocativus": "acrior"
+					}, 
+					"pluralis": {
+						"nominativus": "acriores",
+				        "genetivus": "acriorum",
+				        "dativus": "acrioribus",
+				        "accusativus": "acriores",
+				        "ablativus": "acrioribus",
+				        "vocativus": "acriores"
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "acerrima",
+				        "genetivus": "acerrimae",
+				        "dativus": "acerrimae",
+				        "accusativus": "acerrimam",
+				        "ablativus": "acerrima",
+				        "vocativus": "acerrima"
+					}, 
+					"pluralis": {
+						"nominativus": "acerrimae",
+				        "genetivus": "acerrimarum",
+				        "dativus": "acerrimis",
+				        "accusativus": "acerrimas",
+				        "ablativus": "acerrimis",
+				        "vocativus": "acerrimae"
+					}
+				}
+			},
+			"neutrum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "acre",
+				        "genetivus": "acris",
+				        "dativus": "acri",
+				        "accusativus": "acre",
+				        "ablativus": "acri",
+				        "vocativus": "acre"
+					}, 
+					"pluralis": {
+						"nominativus": "acria",
+				        "genetivus": "acrium",
+				        "dativus": "acribus",
+				        "accusativus": "acria",
+				        "ablativus": "acribus",
+				        "vocativus": "acria"
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "acrius",
+				        "genetivus": "acrioris",
+				        "dativus": "acriori",
+				        "accusativus": "acrius",
+				        "ablativus": "acriori",
+				        "vocativus": "acrius"
+					}, 
+					"pluralis": {
+						"nominativus": "acriora",
+				        "genetivus": "acriorum",
+				        "dativus": "acrioribus",
+				        "accusativus": "acriora",
+				        "ablativus": "acrioribus",
+				        "vocativus": "acriora"
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "acerrimum",
+				        "genetivus": "acerrimi",
+				        "dativus": "acerrimo",
+				        "accusativus": "acerrimum",
+				        "ablativus": "acerrimo",
+				        "vocativus": "acerrimum"
+					}, 
+					"pluralis": {
+						"nominativus": "acerrima",
+				        "genetivus": "acerrimorum",
+				        "dativus": "acerrimis",
+				        "accusativus": "acerrima",
+				        "ablativus": "acerrimis",
+				        "vocativus": "acerrima"
+					}
+				}
+			}
+		}
+	},
+	"facilis, facilis, facile": {
+		"third": {
+			"masculinum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				}
+			},
+			"femininum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				}
+			},
+			"neutrum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				}
+			}
+		}
+	},
+	"sapiens, sapiens, sapiens": {
+		"third": {
+			"masculinum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				}
+			},
+			"femininum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				}
+			},
+			"neutrum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}, 
+					"pluralis": {
+						"nominativus": "",
+				        "genetivus": "",
+				        "dativus": "",
+				        "accusativus": "",
+				        "ablativus": "",
+				        "vocativus": ""
+					}
+				}
+			}
+		}
+	},
+	"acerbus, acerba, acerbum": {
+		"first, second": {
+			"masculinum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "acerbus",
+				        "genetivus": "acerbi",
+				        "dativus": "acerbo",
+				        "accusativus": "acerbum",
+				        "ablativus": "acerbo",
+				        "vocativus": "acerbe"
+					}, 
+					"pluralis": {
+						"nominativus": "acerbi",
+				        "genetivus": "acerborum",
+				        "dativus": "acerbis",
+				        "accusativus": "acerbos",
+				        "ablativus": "acerbis",
+				        "vocativus": "acerbi"
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "acerbior",
+				        "genetivus": "acerbioris",
+				        "dativus": "acerbiori",
+				        "accusativus": "acerbiorem",
+				        "ablativus": "acerbiore",
+				        "vocativus": "acerbior"
+					}, 
+					"pluralis": {
+						"nominativus": "acerbiores",
+				        "genetivus": "acerbiorum",
+				        "dativus": "acerbioribus",
+				        "accusativus": "acerbiores",
+				        "ablativus": "acerbioribus",
+				        "vocativus": "acerbiores"
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "acerbissimus",
+				        "genetivus": "acerbissimi",
+				        "dativus": "acerbissimo",
+				        "accusativus": "acerbissimum",
+				        "ablativus": "acerbissmo",
+				        "vocativus": "acerbissime"
+					}, 
+					"pluralis": {
+						"nominativus": "acerbissimi",
+				        "genetivus": "acerbissimorum",
+				        "dativus": "acerbissimis",
+				        "accusativus": "acerbissimos",
+				        "ablativus": "acerbissimis",
+				        "vocativus": "acerbissimi"
+					}
+				}
+			},
+			"femininum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "acerba",
+				        "genetivus": "acerbae",
+				        "dativus": "acerbae",
+				        "accusativus": "acerbam",
+				        "ablativus": "acerba",
+				        "vocativus": "acerba"
+					}, 
+					"pluralis": {
+						"nominativus": "acerbae",
+				        "genetivus": "acerbarum",
+				        "dativus": "acerbis",
+				        "accusativus": "acerbas",
+				        "ablativus": "acerbis",
+				        "vocativus": "acerbae"
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "acerbior",
+				        "genetivus": "acerbioris",
+				        "dativus": "acerbiori",
+				        "accusativus": "acerbiorem",
+				        "ablativus": "acerbiore",
+				        "vocativus": "acerbior"
+					}, 
+					"pluralis": {
+						"nominativus": "acerbiores",
+				        "genetivus": "acerbiorum",
+				        "dativus": "acerbioribus",
+				        "accusativus": "acerbiores",
+				        "ablativus": "acerbioribus",
+				        "vocativus": "acerbiores"
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "acerbissima",
+				        "genetivus": "acerbissimae",
+				        "dativus": "acerbissimae",
+				        "accusativus": "acerbissimam",
+				        "ablativus": "acerbissima",
+				        "vocativus": "acerbissima"
+					}, 
+					"pluralis": {
+						"nominativus": "acerbissimae",
+				        "genetivus": "acerbissimarum",
+				        "dativus": "acerbissimis",
+				        "accusativus": "acerbissimas",
+				        "ablativus": "acerbissimis",
+				        "vocativus": "acerbissimae"
+					}
+				}
+			},
+			"neutrum": {
+				"positivus": {
+					"singularis": {
+						"nominativus": "acerbum",
+				        "genetivus": "acerbi",
+				        "dativus": "acerbo",
+				        "accusativus": "acerbum",
+				        "ablativus": "acerbo",
+				        "vocativus": "acerbum"
+					}, 
+					"pluralis": {
+						"nominativus": "acerba",
+				        "genetivus": "acerborum",
+				        "dativus": "acerbis",
+				        "accusativus": "acerba",
+				        "ablativus": "acerbis",
+				        "vocativus": "acerba"
+					}
+				},
+				"comparativus": {
+					"singularis": {
+						"nominativus": "acerbius",
+				        "genetivus": "acerbioris",
+				        "dativus": "acerbiori",
+				        "accusativus": "acerbius",
+				        "ablativus": "acerbiore",
+				        "vocativus": "acerbius"
+					}, 
+					"pluralis": {
+						"nominativus": "acerbiora",
+				        "genetivus": "acerbiorum",
+				        "dativus": "acerbiosibus",
+				        "accusativus": "acerbiora",
+				        "ablativus": "acerbioribus",
+				        "vocativus": "acerbiora"
+					}
+				},
+				"superlativus": {
+					"singularis": {
+						"nominativus": "acerbissimum",
+				        "genetivus": "acerbissimi",
+				        "dativus": "acerbissimo",
+				        "accusativus": "acerbissimum",
+				        "ablativus": "acerbissimo",
+				        "vocativus": "acerbissimum"
+					}, 
+					"pluralis": {
+						"nominativus": "acerbissima",
+				        "genetivus": "acerbissimorum",
+				        "dativus": "acerbissimis",
+				        "accusativus": "acerbissima",
+				        "ablativus": "acerbissimis",
+				        "vocativus": "acerbissima"
+					}
+				}
+			}
+		}
+	}
+}

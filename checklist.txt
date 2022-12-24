@@ -1,0 +1,34 @@
+rzeczownik:
+deklinacje I-V
+
+czasownik:
+ind praes act / pass
+ind imperf act / pass
+ind fut I act / pass
+ind perf act / pass
+ind plusquamperf act / pass
+ind fut II act / pass
+supinum
+imp praes act / pass
+
+
+imiesłów:
+part praes act
+part perf pass
+
+acc duplex
+
+przymiotnik:
+III deklinacja (trzy warianty, dwa warianty, jeden)
+stopniowanie
+zaimkowe
+
+zaimek:
+osobowy
+dzierżawczy
+wskazujący - is, hic, ille, idem
+względny
+pytajny
+nullus, nemo, nihil
+
+składnia nazw miast

@@ -1,0 +1,54 @@
+{
+	"singularis": {
+		"first": {
+			"nominativus": "",
+			"genetivus": "",
+			"dativus": "",
+			"accusativus": "",
+			"ablativus": "",
+			"vocativus": ""
+		},
+		"second": {
+			"nominativus": "",
+			"genetivus": "",
+			"dativus": "",
+			"accusativus": "",
+			"ablativus": "",
+			"vocativus": ""
+		},
+		"third": {
+			"nominativus": "",
+			"genetivus": "",
+			"dativus": "",
+			"accusativus": "",
+			"ablativus": "",
+			"vocativus": ""
+		}
+	},
+	"pluralis": {
+		"first": {
+			"nominativus": "",
+			"genetivus": "",
+			"dativus": "",
+			"accusativus": "",
+			"ablativus": "",
+			"vocativus": ""
+		},
+		"second": {
+			"nominativus": "",
+			"genetivus": "",
+			"dativus": "",
+			"accusativus": "",
+			"ablativus": "",
+			"vocativus": ""
+		},
+		"third": {
+			"nominativus": "",
+			"genetivus": "",
+			"dativus": "",
+			"accusativus": "",
+			"ablativus": "",
+			"vocativus": ""
+		}
+	}
+}

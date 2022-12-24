@@ -1,0 +1,45 @@
+rzeczownik
+III spółgłoskowa 
+	- imparisyllaba wszystkich rodzajów + rodzina z psem
+III samogłoskowa 
+	- zakończenia -e -al -ar w nom singularis
+	- abl singularis -i
+	- w lm spójka -i w gen, w neutrum w innych też
+III mieszana
+	- parisyllaba z nom sing na -is, -es (navis, navis)
+	- imparisyllaba, które przed -is w gen sing mają co najmniej dwie spółgoski (arx, artis)
+	- abl singularis -e
+	- gen pl -ium
+IV
+	- masculina z nom sing -us
+	- neutra z nom sing -u
+	- gen sing -us (exercitus, us; cornu, us)
+V
+	- feminina z nom  sing -es, gen sing -i
+
+czasownik
+ind praes act
+	- I, II i IV mają temat samogłoskowy
+	- IIIa ma 
+ind praes pass
+	- III w 2 os. lp. jest krótkie -e 
+ind fut I pass
+	- II w 2 os. lp. jest krótkie -e
+
+przymiotnik
+positivus
+	- I / II deklinacja jak rzeczownik
+	- III deklinacja wzór samogłoskowy
+comparativus 
+	- zamiast końcówki gen sing dodaje się -ior, -ior, -ius
+	- odmiana wg III deklinacji spógłoskowej
+	- neutrum tylko w nom/acc/voc lp. ma -ius, w pozostałych -ior
+superlativus
+	- zamiast końcówki gen sing dodaje się issimus, a, um / rimus, a, um (przymiotniki na -er) / limus, a, um (przymiotniki na -lis)
+	- odmiana wg I / II deklinacji
+
+imiesłów:
+part praes act
+	- deklinacja III samogłoskowa, abl sing dwa warianty: -i jeśli ma charakter przymiotnikowy, -e jeśli ma charakter rzeczownikowy
+part perf pass
+	- tworzy się z supinum

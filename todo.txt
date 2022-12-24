@@ -1,0 +1,6 @@
+option to turn off vocativus / nominativus
+set probability distribution
+track mistakes and adjust probabilities according to them
+tell what other forms has same word (enabled with flag)
+option to enable comments
+run only descriptions of chosen declension

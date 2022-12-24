@@ -1,0 +1,3 @@
+in which declensions nom sing is the same as nom pl
+in which dat is the same as abl (sing / pl / both)
+
